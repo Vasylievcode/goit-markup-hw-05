@@ -617,6 +617,9 @@ button {
 .input-wrapper {
   position: relative;
 }
+.input-wrapper:focus {
+  fill: #4d5ae5;
+}
 .form-field {
   margin-bottom: 8px;
 }

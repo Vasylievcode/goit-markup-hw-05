@@ -581,6 +581,7 @@ button {
 }
 .modal-form-label {
   color: #8e8f99;
+  display: block;
   font-family: Roboto;
   font-size: 12px;
   font-style: normal;
@@ -588,7 +589,7 @@ button {
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.48px;
   display: inline-block;
-  padding-bottom: 4px;
+  margin-bottom: 4px;
 }
 .modal-form-input {
   width: 100%;

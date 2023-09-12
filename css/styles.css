@@ -579,8 +579,7 @@ button {
   font-weight: 500;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
-  padding-top: 72px;
-  padding-bottom: 16px;
+  margin-bottom: 16px;
 }
 .modal-form-label {
   color: #8e8f99;
@@ -612,7 +611,7 @@ button {
   position: relative;
 }
 .form-field {
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 .form-checkbox {
   display: flex;

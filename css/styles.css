@@ -560,16 +560,14 @@ button {
 .close-btn:focus {
   background-color: #404bbf;
   border: none;
+  fill: #ffffff;
 }
 .close-btn-icon {
   padding: 8px;
   stroke: rgba(0, 0, 0, 0.1);
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.close-btn-icon:hover,
-.close-btn-icon:focus {
-  fill: #ffffff;
-}
+
 .modal-header {
   color: #2e2f42;
   text-align: center;

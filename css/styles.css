@@ -588,11 +588,7 @@ button {
   font-weight: 400;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.48px;
-  display: inline-block;
   margin-bottom: 4px;
-  background-color: transparent;
-  outline: transparent;
-  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .modal-form-input {
   width: 100%;
@@ -600,6 +596,12 @@ button {
   border-radius: 4px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   padding-left: 38px;
+  background-color: transparent;
+  outline: transparent;
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.modal-form-input:focus {
+  border-color: #4d5ae5;
 }
 .modal-form-icon {
   position: absolute;

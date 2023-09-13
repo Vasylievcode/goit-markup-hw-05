@@ -502,6 +502,9 @@ button {
   margin-right: 120px;
 }
 /* SUBSCRIBE */
+.footer-subscribe {
+  margin-left: 80px;
+}
 .paragraph-subscribe {
   margin-bottom: 16px;
   font-weight: 500;

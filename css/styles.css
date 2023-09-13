@@ -547,6 +547,9 @@ button {
   border: none;
   border-radius: 4px;
 }
+.subscribe-btn {
+  margin-left: 16px;
+}
 /* BACKDROP */
 
 .backdrop {

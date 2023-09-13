@@ -643,7 +643,7 @@ button {
 .modal-btn {
   display: block;
   min-width: 169px;
-  height: 58px;
+  height: 56px;
   color: #fff;
   text-align: center;
   font-family: "Roboto", sans-serif;
@@ -694,4 +694,7 @@ button {
   align-items: center;
   justify-content: center;
   fill: transparent;
+}
+.privacy-link {
+  color: #4d5ae5;
 }

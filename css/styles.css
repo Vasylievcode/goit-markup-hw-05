@@ -637,6 +637,9 @@ button {
 .input-checkbox {
   margin-right: 8px;
 }
+.input-checkbox:checked {
+  background-color: #404bbf;
+}
 .modal-btn {
   display: block;
   width: 169px;
